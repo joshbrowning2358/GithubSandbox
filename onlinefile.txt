@@ -1,1 +1,3 @@
-Another text file
+Another txt file
+
+Now I'm editing it locally.
