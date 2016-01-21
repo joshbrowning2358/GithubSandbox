@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Sample text
 
 Josh wrote this
 
 Additional change
+=======
+I think my text would suffice for this purpose
+>>>>>>> b4ec1a3ef6c85d782d9b2b36683bf71e58841738
